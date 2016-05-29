@@ -6,4 +6,8 @@ You need to set:
 - Destination IP Address & port
 
 ##### Not fault tolerant
-Needs data integrity checking like CRC32 and retry capability for a real-world application. Perfect for bench testing though.
+Needs data integrity checking like CRC32 and retry capability for a real-world application. 
+
+https://en.wikibooks.org/wiki/Serial_Programming/Error_Correction_Methods
+
+Perfect for bench testing though.
